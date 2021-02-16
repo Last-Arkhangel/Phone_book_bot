@@ -1,0 +1,5 @@
+pytelegrambotapi
+xlrd
+openpyxl
+flask_sslify
+flask
